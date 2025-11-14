@@ -3,3 +3,4 @@ require("config.lazy")
 
 -- Always yank/paste to system clipboard
 vim.opt.clipboard = "unnamedplus"
+

@@ -4,3 +4,4 @@
 
 -- Disable formatting on save
 vim.g.autoformat = false
+
